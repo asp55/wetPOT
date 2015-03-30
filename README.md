@@ -10,7 +10,7 @@ Based on work started by Mike Rice, and M.A. de Pablo in this thread: http://for
 CC: BY-SA
 
 # Example Arduino Code:
-```
+```Arduino
 /*  Soil Moisture measurement v0.2 20150330
  Simple circuit
  
