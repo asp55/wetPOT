@@ -10,6 +10,7 @@ Based on work started by Mike Rice, and M.A. de Pablo in this thread: http://for
 CC: BY-SA
 
 # Example Arduino Code:
+```
 /*  Soil Moisture measurement v0.2 20150330
  Simple circuit
  
@@ -82,3 +83,4 @@ void loop (void) {
 
   delay(1000);
 }
+```
