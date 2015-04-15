@@ -1019,7 +1019,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <text x="149.86" y="30.48" size="3.81" layer="94">wetPOT - Soil Moisture</text>
 <text x="149.86" y="25.4" size="2.1844" layer="94">Andrew S. Parnell</text>
 <text x="228.6" y="30.48" size="2.54" layer="94">CC: BY-SA</text>
-<text x="241.3" y="7.62" size="2.54" layer="94">1</text>
+<text x="241.3" y="7.62" size="2.54" layer="94">0.2</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
