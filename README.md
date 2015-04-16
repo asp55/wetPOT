@@ -70,7 +70,7 @@ void setup () {
 
 }
 
-void loop (void) {
+void loop () {
   moisture=SoilMoisture(); // assign the result of SoilMoisture() to the global variable 'moisture'
   Serial.print("Soil moisture Analog Value: ");
   Serial.print(moisture); // print the analogical measurement of the experiment
